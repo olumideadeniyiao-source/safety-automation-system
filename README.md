@@ -78,7 +78,7 @@ The **Safety Superintendent System** is a **Python-based automation tool** desig
   ```
 2. **Run the system**:
   ```bash
-   python main.py
+   python system.py
   ```
 
 ---
